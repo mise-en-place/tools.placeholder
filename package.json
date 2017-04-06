@@ -1,15 +1,9 @@
 {
   "name": "mep-tools.placeholder",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Placeholder Tool",
   "main": "stylesheets/_tool-placeholder.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "tool-placeholder",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
